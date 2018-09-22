@@ -2,6 +2,8 @@
 
 A Form made with React to establish knowledge and improve router path.
 
+![alt text](https://i.imgur.com/ljCTb0S.png)
+
 ## Getting Started
 
 ```
