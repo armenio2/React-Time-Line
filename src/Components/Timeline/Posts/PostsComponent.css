@@ -1,0 +1,15 @@
+#postRow img{
+    width: 200px;
+    margin: 7px;
+}
+#postRow div:first-child img:first-child{
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 0;
+}
+#postRow h5{
+    font-size: 100%;
+}
+#postRow p{
+    font-size: 100%;
+}

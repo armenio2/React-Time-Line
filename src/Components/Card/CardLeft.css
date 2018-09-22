@@ -1,0 +1,13 @@
+.div{
+    background: red;
+}
+#DivCardLeft{
+    max-width: 18rem;
+}
+#DivCardLeft div:last-of-type{
+    text-align: center;
+}
+#DivCardLeft img{
+    margin-top: 5px;
+    width: 200px;
+}
