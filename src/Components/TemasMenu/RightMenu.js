@@ -1,5 +1,4 @@
 import React from "react";
-import './RightMenu.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 

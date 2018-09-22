@@ -1,5 +1,4 @@
 import React from "react";
-import './Nav.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Logo from "./Logo";
 import ButtonNav from "./ButtonNav";

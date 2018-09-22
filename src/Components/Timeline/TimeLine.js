@@ -1,5 +1,4 @@
 import React from "react";
-import './TimeLine.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import GetPosts from "../../Network/GetPosts";
 import PostsComponent from './Posts/PostsComponent';
