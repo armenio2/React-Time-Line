@@ -1,6 +1,6 @@
-# React form list
+# React Time Line
 
-A Form made with React to establish knowledge and improve router path.
+Time Line made with React to establish knowledge
 
 ![alt text](https://i.imgur.com/ljCTb0S.png)
 
